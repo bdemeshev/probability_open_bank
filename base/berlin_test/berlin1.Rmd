@@ -1,0 +1,33 @@
+Question
+========
+
+Представьте что пятигранный кубик подбрасывается 50 раз. 
+В среднем, как много раз среди этих 50 бросков выпадет нечетное число (1, 3 или 5)?
+
+Answerlist
+----------
+*  $30$
+*  $25$
+*  $5$
+*  Нет верного ответа
+
+Solution
+========
+
+Answerlist
+----------
+*  Good answer
+*  Bad answer
+*  Bad answer
+*  Bad answer
+
+Meta-information
+================
+exname: berlin1
+extype: schoice
+exsolution: 1000
+exshuffle: 4
+exextra[Type]: Calculation
+exextra[Language]: Russian
+exextra[Level]: Statistical Reasoning
+exsection: Probability/Elementary Probability/General Rules

@@ -1,0 +1,404 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/moodlequiz/Probability/Elementary Probability/General Rules</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : base_berlin_test_berlin1 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p>Представьте что пятигранный кубик подбрасывается 50 раз. В среднем, как много раз среди этих 50 бросков выпадет нечетное число (1, 3 или 5)?</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+</br>
+ Bad answer 
+ Good answer 
+ Bad answer 
+ Bad answer 
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="-33.33333" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(5\)</span>
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Bad answer
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(30\)</span>
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Good answer
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="-33.33333" format="html">
+<text><![CDATA[<p>
+Нет верного ответа
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Bad answer
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="-33.33333" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(25\)</span>
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Bad answer
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="category">
+<category>
+<text>$course$/moodlequiz/Probability/Elementary Probability/Conditional probability</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q2 : base_berlin_test_berlin2 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p>Среди 1,000 жителей маленького города 500 являются членами хора. Среди этих 500 членов хора 100 являются мужчинами. Среди 500 жителей, которые не являются членами хора 300 мужчин. Какова вероятность, что случайно выбранный мужчина состоит в хоре?</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+</br>
+ Good answer 
+ Bad answer 
+ Bad answer 
+ Bad answer 
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(25 \%\)</span>
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Good answer
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="-33.33333" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(10 \%\)</span>
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Bad answer
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="-33.33333" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(40 \%\)</span>
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Bad answer
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="-33.33333" format="html">
+<text><![CDATA[<p>
+Нет верного ответа
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Bad answer
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="category">
+<category>
+<text>$course$/moodlequiz/Probability/Elementary Probability/General Rules</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q3 : base_berlin_test_berlin3 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p>Представьте, что подбрасывается нечестный шестигранный кубик. Вероятность, что на этом кубике выпадет 6 в два раза выше вероятности выпадения любого другого числа. В среднем, как много раз среди 70 бросков выпадет 6?</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+</br>
+ Bad answer 
+ Bad answer 
+ Bad answer 
+ Good answer 
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="-33.33333" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(35\)</span>
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Bad answer
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="-33.33333" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(23\)</span>
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Bad answer
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="-33.33333" format="html">
+<text><![CDATA[<p>
+Нет верного ответа
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Bad answer
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(20\)</span>
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Good answer
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="category">
+<category>
+<text>$course$/moodlequiz/Probability/Elementary Probability/Conditional probability</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q4 : base_berlin_test_berlin4 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p>В лесу 20 % грибов красные, 50 % коричневые и 30 % белые. Красный гриб может оказаться ядовитым с вероятностью 20 %. Любой не красный гриб может оказаться ядовитым с вероятностью 5 %. Какова вероятность, что отравленный гриб является красным?</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+</br>
+ Bad answer 
+ Bad answer 
+ Good answer 
+ Bad answer 
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="-33.33333" format="html">
+<text><![CDATA[<p>
+нет верного ответа
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Bad answer
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="-33.33333" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(20 \%\)</span>
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Bad answer
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(50 \%\)</span>
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Good answer
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="-33.33333" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(4 \%\)</span>
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Bad answer
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="category">
+<category>
+<text>$course$/moodlequiz/Probability/Elementary Probability/General Rules</text>
+</category>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> Q5 : base_berlin_test_berlin5 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p>Представьте что пятигранный кубик подбрасывается 50 раз. В среднем, как много раз среди этих 50 бросков выпадет нечетное число (1, 3 или 5)?</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>30</text>
+<tolerance>0</tolerance>
+</answer>
+</question>
+
+
+<question type="category">
+<category>
+<text>$course$/moodlequiz/Probability/Elementary Probability/Conditional probability</text>
+</category>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> Q6 : base_berlin_test_berlin6 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p>Среди 1,000 жителей маленького города 500 являются членами хора. Среди этих 500 членов хора 100 являются мужчинами. Среди 500 жителей, которые не являются членами хора 300 мужчин. Какова вероятность, что случайно выбранный мужчина состоит в хоре? Ответ запишите в процентах.</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>25</text>
+<tolerance>0</tolerance>
+</answer>
+</question>
+
+
+<question type="category">
+<category>
+<text>$course$/moodlequiz/Probability/Elementary Probability/General Rules</text>
+</category>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> Q7 : base_berlin_test_berlin7 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p>Представьте, что подбрасывается нечестный шестигранный кубик. Вероятность, что на этом кубике выпадет 6 в два раза выше вероятности выпадения любого другого числа. В среднем, как много раз среди 70 бросков выпадет 6?</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>25</text>
+<tolerance>0</tolerance>
+</answer>
+</question>
+
+
+<question type="category">
+<category>
+<text>$course$/moodlequiz/Probability/Elementary Probability/Conditional probability</text>
+</category>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> Q8 : base_berlin_test_berlin8 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p>В лесу 20 % грибов красные, 50 % коричневые и 30 % белые. Красный гриб может оказаться ядовитым с вероятностью 20 %. Любой не красный гриб может оказаться ядовитым с вероятностью 5 %. Какова вероятность, что отравленный гриб является красным? Ответ запишите в процентах.</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>50</text>
+<tolerance>0</tolerance>
+</answer>
+</question>
+
+</quiz>

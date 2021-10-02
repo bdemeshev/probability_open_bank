@@ -1,0 +1,34 @@
+Question
+========
+
+Представьте, что подбрасывается нечестный шестигранный кубик. 
+Вероятность, что на этом кубике выпадет 6 в два раза выше вероятности выпадения любого другого числа.
+В среднем, как много раз среди 70 бросков выпадет 6?
+
+Answerlist
+----------
+*  $20$
+*  $23$
+*  $35$
+*  Нет верного ответа
+
+Solution
+========
+
+Answerlist
+----------
+*  Good answer
+*  Bad answer
+*  Bad answer
+*  Bad answer
+
+Meta-information
+================
+exname: berlin3
+extype: schoice
+exsolution: 1000
+exshuffle: 4
+exextra[Type]: Calculation
+exextra[Language]: Russian
+exextra[Level]: Statistical Reasoning
+exsection: Probability/Elementary Probability/General Rules

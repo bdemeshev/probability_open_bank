@@ -1,0 +1,23 @@
+Question
+========
+
+В лесу 20 \% грибов красные, 50 \% коричневые и 30 \% белые.
+Красный гриб может оказаться ядовитым с вероятностью 20 \%.
+Любой не красный гриб может оказаться ядовитым с вероятностью 5 \%.
+Какова вероятность, что отравленный гриб является красным?
+Ответ запишите в процентах.
+
+```{r, echo=FALSE, results="hide"}
+## solution
+res <- 50
+```
+
+Meta-information
+================
+exname: berlin8
+extype: num
+exsolution: `r fmt(res)`
+exextra[Type]: Calculation
+exextra[Language]: Russian
+exextra[Level]: Statistical Reasoning
+exsection: Probability/Elementary Probability/Conditional probability
