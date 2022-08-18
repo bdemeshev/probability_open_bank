@@ -228,4 +228,5 @@ $$
 * [moodle2latex](https://tex.stackexchange.com/questions/643627/)
 * [jupyter quiz](https://github.com/jmshea/jupyterquiz)
 * [r exams](https://www.r-exams.org/), [csv2rexams](https://r-forge.r-project.org/forum/forum.php?thread_id=33887&forum_id=4377&group_id=1337), [moodle2rexams](https://r-forge.r-project.org/forum/message.php?msg_id=47753&group_id=1337)
+* [auto multiple choice](https://www.auto-multiple-choice.net/)
 * [Pablo Angulo, pyexams](https://pypi.org/project/pyexams/)
