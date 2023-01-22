@@ -15,15 +15,6 @@ files_df = tibble(filename =
 files_df = filter(files_df, str_detect(filename, '-mc-'))
 
 
-# res = exams2pdf_source(files_df$filename, date = "2021-xx-yy",
-#                       add_seed = 12378,
-#                 n_vars = 1, title = "Подборочка",
-#                 institution = "Поехали :)", nops = FALSE, shuffle = TRUE,
-#                 template = "plain_no_sweave.tex",
-#                 header = "\\input{../header.tex}",
-#                 output_dir = "output/")
-
-
 
 options(texi2dvi = Sys.which('xelatex'), exams_tex = 'tools') 
 # 'tools' means 'dont use tinytex', and then select engine!
