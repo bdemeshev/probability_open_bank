@@ -1,0 +1,35 @@
+Question
+========
+
+Среди 1,000 жителей маленького города 500 являются членами хора. 
+Среди этих 500 членов хора 100 являются мужчинами. 
+Среди 500 жителей, которые не являются членами хора 300 мужчин.
+Какова вероятность, что случайно выбранный мужчина состоит в хоре?
+
+Answerlist
+----------
+*  $25 \%$
+*  $10 \%$
+*  $40 \%$
+*  Нет верного ответа
+
+Solution
+========
+
+Answerlist
+----------
+*  Good answer
+*  Bad answer
+*  Bad answer
+*  Bad answer
+
+Meta-information
+================
+exname: berlin2
+extype: schoice
+exsolution: 1000
+exshuffle: 4
+exextra[Type]: Calculation
+exextra[Language]: Russian
+exextra[Level]: Statistical Reasoning
+exsection: Probability/Elementary Probability/Conditional probability

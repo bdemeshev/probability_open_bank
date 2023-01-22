@@ -1,0 +1,51 @@
+```{r data generation, echo = FALSE, results = 'hide'}
+alphas = c(0.1, 0.1, 0.2, 0.2, 0.3, 0.3, 0.4, 0.4, 0.5, 0.5)
+betas = c(0.2, 0.2, 0.3, 0.3, 0.4, 0.4, 0.2, 0.2, 0.3, 0.3)
+inequalities = c('>', '<', '>', '<', '>', '<', '>', '<', '>', '<')
+answers = c(0.2, 0.8, 0.3, 0.7, 0.4, 0.6, 0.2, 0.8, 0.3, 0.7)
+
+id = sample(1:10, size=1)
+
+alpha = alphas[id]
+beta = betas[id]
+inequality = inequalities[id]
+
+wrong_answers = sample(setdiff(unique(answers), answer), size=4)
+
+```
+
+Question
+========
+
+Обозначим точное P-значение буквой $V$. 
+Екатерина II проводит статистический тест с вероятностью ошибки первого рода равной `r alpha` 
+и вероятностью ошибки второго рода равной `r beta`.
+
+Чему равна вероятность $\mathbb{P} (V `r inequality` `r alpha \mid H_1)$?
+
+Answerlist
+----------
+* `r answer`
+* `r wrong_answers[1]`
+* `r wrong_answers[2]`
+* `r wrong_answers[3]`
+* `r wrong_answers[4]`
+* нет верного ответа
+
+
+Solution
+========
+Вероятность того, что P-значение меньше уровня значимости, равна вероятности того, 
+что $H_0$ будет отвергнута. 
+
+Meta-information
+================
+exname: p-value-distribution-under-H1
+extype: schoice
+exsolution: 100000
+exshuffle: 6
+exextra[Type]: Calculation
+exextra[Language]: Russian
+exextra[Level]: Statistical Reasoning
+exsection: Inferential Statistics/NHST/Statistical errors/Type II error
+exextra[Tags]: Type II error, NHST, Statistical errors

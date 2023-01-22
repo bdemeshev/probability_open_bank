@@ -1,0 +1,7 @@
+var_raw,q_no,name,ans_letter,var_no,filename,local_filename
+exam1,1,berlin1,d,1,../base//berlin_test/berlin1-probability-mc-rus.Rmd,03.Rmd
+exam1,2,berlin2,a,1,../base//berlin_test/berlin2-probability-mc-rus.Rmd,04.Rmd
+exam1,3,berlin3,c,1,../base//berlin_test/berlin3-probability-mc-rus.Rmd,05.Rmd
+exam1,4,berlin4,b,1,../base//berlin_test/berlin4-probability-mc-rus.Rmd,06.Rmd
+exam1,5,p-value-distribution-under-H1,f,1,../base//2023-01-22-002-statistics-mc-rus.Rmd,02.Rmd
+exam1,6,p-value-distribution-under-H0,d,1,../base//2023-01-22-001-statistics-mc-rus.Rmd,01.Rmd

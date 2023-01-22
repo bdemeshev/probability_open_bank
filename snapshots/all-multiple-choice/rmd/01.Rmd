@@ -1,0 +1,46 @@
+```{r data generation, echo = FALSE, results = 'hide'}
+thresholds = c(0.1, 0.1, 0.2, 0.2, 0.3, 0.3, 0.4, 0.4, 0.5, 0.5)
+inequalities = c('>', '<', '>', '<', '>', '<', '>', '<', '>', '<')
+answers = c(0.9, 0.1, 0.8, 0.2, 0.7, 0.3, 0.6, 0.4, 0.5, 0.5)
+
+id = sample(1:10, size=1)
+
+threshold = thresholds[id]
+inequality = inequalities[id]
+answer = answers[id]
+
+wrong_answers = sample(setdiff(unique(answers), answer), size=4)
+
+```
+
+Question
+========
+
+Обозначим точное P-значение буквой $V$. 
+Чему равна вероятность $\mathbb{P} (V `r inequality` `r threshold \mid H_0)$?
+
+Answerlist
+----------
+* `r answer`
+* `r wrong_answers[1]`
+* `r wrong_answers[2]`
+* `r wrong_answers[3]`
+* `r wrong_answers[4]`
+* нет верного ответа
+
+
+Solution
+========
+При верной $H_0$ P-значение имеет равномерное распределение. 
+
+Meta-information
+================
+exname: p-value-distribution-under-H0
+extype: schoice
+exsolution: 100000
+exshuffle: 6
+exextra[Type]: Calculation
+exextra[Language]: Russian
+exextra[Level]: Statistical Reasoning
+exsection: Inferential Statistics/NHST/Statistical errors/Type I error
+exextra[Tags]: Type I error, NHST, Uniform distribution, Statistical errors
